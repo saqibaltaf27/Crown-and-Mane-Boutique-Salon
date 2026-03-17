@@ -17,5 +17,10 @@
     {
         "name": "Herbal Shampo",
         "price": 20
+    },
+
+    {
+        "name": "Testing Product Update",
+        "price": 200
     }
 ]

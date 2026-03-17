@@ -17,5 +17,10 @@
     {
         "name": "Deep Conditioning Treatment",
         "price": 60
+    },
+
+    {
+        "name": "Testing Service Update",
+        "price": 600
     }
 ]
