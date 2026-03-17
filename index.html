@@ -62,9 +62,18 @@
             const servicesContainer = document.getElementById('services-container');
             const productContainer = document.getElementById('product-container');
 
-            if(services.length) services.forEach(s => servicesContainer.appendChild(createCard(s)));
+            if(services.length) {
+            services.forEach(s => servicesContainer.appendChild(createCard(s)));
+            } else {
+            servicesContainer.innerHTML = '<p>No services available at the moment.</p>';
+            }
 
-            else productContainer.innerHTML = '<p>No products available at the moment.</p>';
+        // Display products
+            if(products.length) {
+                products.forEach(p => productContainer.appendChild(createCard(p)));
+            } else {
+                productContainer.innerHTML = '<p>No products available at the moment.</p>';
+            }
         }
 
         renderContent();
