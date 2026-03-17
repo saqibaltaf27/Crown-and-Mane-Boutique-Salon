@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Shea Butter Moisturizer",
+        "price": 25
+    },
+
+    {
+        "name": "Argan Oil Treatment",
+        "price": 40
+    },
+
+    {
+        "name": "Curl Defining Cream",
+        "price": 30
+    },
+
+    {
+        "name": "Herbal Shampo",
+        "price": 20
+    },
+
+    {
+        "name": "Testing Product Update",
+        "price": 200
+    }
+]
