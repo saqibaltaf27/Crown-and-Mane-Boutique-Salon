@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Natural Hair Consultation",
+        "price": 50
+    },
+
+    {
+        "name": "Custom Coloring",
+        "price": 120
+    },
+
+    {
+        "name":"Hair Styling & Updos",
+        "price": 80
+    },
+
+    {
+        "name": "Deep Conditioning Treatment",
+        "price": 60
+    }
+]
